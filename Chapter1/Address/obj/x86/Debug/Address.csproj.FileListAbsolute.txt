@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Address\bin\Debug\Address.exe
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Address\bin\Debug\Address.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Address\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Address\obj\x86\Debug\Address.exe
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Address\obj\x86\Debug\Address.pdb

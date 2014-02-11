@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Name\bin\Release\Name.exe
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Name\bin\Release\Name.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Name\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Name\obj\x86\Release\Name.exe
+C:\Users\eahscs\Documents\GitHub\Chapter1Problems\Chapter1\Name\obj\x86\Release\Name.pdb
