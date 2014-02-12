@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name", "Name\Name.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.csproj", "{D6E9DB07-E072-42AF-B730-499F0EBBA311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.cs", "ConsoleApplication1\Tree.cs.csproj", "{95D5FEDD-56D3-4C9A-A89B-ECB3B381332F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials.cs", "ConsoleApplication2\Initials.cs.csproj", "{E863CC1A-5702-4882-A271-CC36E3ACAFEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +23,14 @@ Global
 		{D6E9DB07-E072-42AF-B730-499F0EBBA311}.Debug|x86.Build.0 = Debug|x86
 		{D6E9DB07-E072-42AF-B730-499F0EBBA311}.Release|x86.ActiveCfg = Release|x86
 		{D6E9DB07-E072-42AF-B730-499F0EBBA311}.Release|x86.Build.0 = Release|x86
+		{95D5FEDD-56D3-4C9A-A89B-ECB3B381332F}.Debug|x86.ActiveCfg = Debug|x86
+		{95D5FEDD-56D3-4C9A-A89B-ECB3B381332F}.Debug|x86.Build.0 = Debug|x86
+		{95D5FEDD-56D3-4C9A-A89B-ECB3B381332F}.Release|x86.ActiveCfg = Release|x86
+		{95D5FEDD-56D3-4C9A-A89B-ECB3B381332F}.Release|x86.Build.0 = Release|x86
+		{E863CC1A-5702-4882-A271-CC36E3ACAFEF}.Debug|x86.ActiveCfg = Debug|x86
+		{E863CC1A-5702-4882-A271-CC36E3ACAFEF}.Debug|x86.Build.0 = Debug|x86
+		{E863CC1A-5702-4882-A271-CC36E3ACAFEF}.Release|x86.ActiveCfg = Release|x86
+		{E863CC1A-5702-4882-A271-CC36E3ACAFEF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
